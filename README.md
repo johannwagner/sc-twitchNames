@@ -4,6 +4,12 @@
 
 This mod replaces the generated names of new employees with names from followers of the Development Twitch Channel.
 
+## Download
+
+Version 0.01: [Download](https://github.com/johannwagner/sc-twitchNames/raw/master/versions/sc-twitchNames-v0.01.zip)
+
+You can also clone the repository.
+
 ## Game Version
 
 Beta 12.2 
@@ -15,4 +21,4 @@ I hacked this together on one evening, so please make sure, you **backup** your 
 
 ## Installation
 
-Just move the folder in your mod folder and activate the mod in the "Mods" menu.
+Just unzip the folder in your mod folder and activate the mod in the "Mods" menu.
